@@ -1,6 +1,23 @@
 import { createRoot } from "react-dom/client"
+import { Fragment } from "react"
+import Header from "./header"
+import Main from "./MainContent"
+import Footer from "./footer"
+import "./index.css"
 
-createRoot(document.getElementById("root")).render(
+const root = createRoot(document.getElementById("root"))
 
-    <h1>Anas</h1>
+root.render(
+   <App />
 )
+
+function App() {
+    return (  
+    <>
+        <Header />
+        <Main />
+        <Footer />
+    </>
+    )
+}
+
