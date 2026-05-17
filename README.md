@@ -1,7 +1,7 @@
 # Khoshary
 # ---------------------
 # Info
-A fun static website made by React js. It's about Koshary which is my favorite meaal. The website ahve some information about Koshary.
+A fun static website made by React js. It's about Koshary which is my favorite meaal. The website have some silly informations about Koshary.
 # ---------------------
 # Proggraming Languages
 React JS, HTML, Css.
